@@ -1,6 +1,6 @@
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=username.repoName)
 # 💫 About Me:
-Fascinated by AI, hardware, and video games. I have a passion for technology and I'm currently teaching myself to code. Here to learn and geek out.
-
+Hi! I'm Le. I'm fascinated by AI, hardware, and video games. I have a passion for technology and I'm currently teaching myself to code. Here to learn and geek out.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/users/806488892378578964) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_lwtrk_/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://pin.it/5ztzJX5P5) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:minhle1234567890l@gmail.com) 
